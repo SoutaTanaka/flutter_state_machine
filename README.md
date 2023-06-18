@@ -1,6 +1,6 @@
 # flutter_state_machine
 
-State management by finite state machines. Inspired by Tinder State machine.
+State management by finite state machines. Inspired by [Tinder State machine](https://github.com/Tinder/StateMachine)
 
 ## Getting Started
 
