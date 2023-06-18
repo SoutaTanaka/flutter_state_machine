@@ -1,6 +1,7 @@
 # flutter_state_machine
 
-State management by finite state machines. Inspired by [Tinder State machine](https://github.com/Tinder/StateMachine)
+有限状態機械(StateMachine)による状態管理を試すレポジトリです。
+[Tinder State machine](https://github.com/Tinder/StateMachine)を参考にしています。
 
 ## Getting Started
 
